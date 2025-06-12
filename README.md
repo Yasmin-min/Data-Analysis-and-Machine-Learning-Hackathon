@@ -7,7 +7,7 @@ O conjunto de dados está disponível no Kaggle e contém informações sobre pr
 casas em diferentes bairros dos Estados Unidos, bem como características das casas, como
 número de quartos, banheiros, tamanho do terreno, etc.
 
-Tarefas:
+## Tarefas:
 ### 1. Análise exploratória de dados: 
 Faça uma análise exploratória dos dados para entender a
 distribuição das variáveis e identificar possíveis correlações entre elas.
