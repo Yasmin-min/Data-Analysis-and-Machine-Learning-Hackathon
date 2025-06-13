@@ -1,0 +1,63 @@
+# Ambiente virtual
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Arquivos de configuração sensíveis
+.env
+.env.local
+*.secret
+*.key
+*.pem
+*.crt
+
+# Configurações específicas de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Pycache e arquivos compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Logs e relatórios temporários
+*.log
+*.out
+*.tmp
+
+# Arquivos de banco de dados locais e backups
+*.sqlite3
+*.db
+*.bak
+*.sql
+
+
+
+# Diretórios de build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testes e relatórios temporários
+htmlcov/
+coverage.xml
+.tox/
+.nox/
+.pytest_cache/
+.cache/
+junit-*.xml
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos personalizados do projeto
+/secrets/
+/config/private/
+/data/raw/
