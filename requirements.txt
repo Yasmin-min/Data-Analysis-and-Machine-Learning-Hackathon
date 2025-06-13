@@ -1,0 +1,30 @@
+# Manipulação e análise de dados
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualização de dados
+matplotlib>=3.5.0
+seaborn>=0.12.0
+plotly>=5.10.0
+
+# Aprendizado de máquina
+scikit-learn>=1.1.0
+xgboost>=1.7.0
+lightgbm>=3.3.0
+
+# Aprendizado não supervisionado e redução de dimensionalidade
+umap-learn>=0.5.0
+
+# Regras de associação
+mlxtend>=0.22.0
+
+# Ferramentas auxiliares
+jupyterlab>=3.4.0
+notebook>=6.4.0
+ipykernel>=6.15.0
+
+# Visualização de modelos e métricas
+yellowbrick>=1.5
+
+# Compatibilidade com diferentes versões de Python
+python-dotenv>=0.21.0
